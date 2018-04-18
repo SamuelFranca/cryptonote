@@ -8,7 +8,6 @@ Contents
 * Building on Linux 64-bit
 * Building on Mac OSX
 * Building on Windows
-* Building on other platforms
 
 ## Building on Linux 64-bit
 
